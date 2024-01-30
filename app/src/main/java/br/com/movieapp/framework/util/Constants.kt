@@ -1,4 +1,4 @@
-package br.com.movieapp.core.util
+package br.com.movieapp.framework.util
 
 object Constants {
     const val API_LANGUAGE_PARAM = "api_key"

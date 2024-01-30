@@ -39,6 +39,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     MovieAppTheme {
-        Greeting("Android")
+        Greeting("Preview Android")
     }
 }
